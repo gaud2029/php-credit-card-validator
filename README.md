@@ -22,7 +22,7 @@ Require the package in `composer.json`
 
 ```json
 "require": {
-    "inacho/php-credit-card-validator": "1.*"
+    "gaud2029/php-credit-card-validator": "1.*"
 },
 ```
 
