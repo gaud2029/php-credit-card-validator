@@ -7,6 +7,17 @@ Also validates the CVC and the expiration date.
 
 ## Installation
 
+
+Add that in `composer.json`
+```json
+"repositories": [
+        {
+            "url": "https://github.com/gaud2029/php-credit-card-validator",
+            "type": "git"
+        }
+    ]
+```
+
 Require the package in `composer.json`
 
 ```json
